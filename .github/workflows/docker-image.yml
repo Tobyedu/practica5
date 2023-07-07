@@ -8,7 +8,7 @@ on:
 jobs:
 
   build:
-# - explicación: Runner en ubuntu
+# - explicación: Runner en ubuntu sisi
     runs-on: ubuntu-latest
 # - explicación: Los siguientes pasos son ejecutados al realizar un git push
     steps:
